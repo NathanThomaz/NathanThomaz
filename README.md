@@ -22,5 +22,5 @@
 
 ### 🌐 Conecte-se comigo:
 
-| [LinkedIn](https://www.linkedin.com/in/nathan-thomaz-devs/) | [Portfólio](https://seu-portfolio.com) | [Discord](https://discord.com/users/nathan#9367) | [Email](mailto:nathanthomaz@gmail.com) | [Instagram](https://www.instagram.com/nathann_thomaz/) |
+| [LinkedIn](https://www.linkedin.com/in/nathan-thomaz-devs/) | [Portfólio](https://nathanthomaz.github.io/) | [Discord](https://discord.com/users/nathan#9367) | [Email](mailto:nathanthomaz@gmail.com) | [Instagram](https://www.instagram.com/nathann_thomaz/) |
 | --- | --- | --- | --- | --- |

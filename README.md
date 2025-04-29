@@ -1,26 +1,54 @@
-### 👋 Olá, eu sou Nathan Thomaz!
+# 👋 Olá, eu sou Nathan Thomaz!
 
-🚀 Apaixonado por tecnologia e desenvolvimento web, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Meu foco principal é criar soluções elegantes e eficientes, combinando design intuitivo com funcionalidades robustas.
+🚀 Desenvolvedor e Engenheiro de Dados apaixonado por tecnologia, programação e criação de soluções inovadoras. Meu foco principal é construir sistemas eficientes, estruturados e escaláveis, aplicando boas práticas de engenharia de dados e desenvolvimento de software.
 
-🌐 No meu portfólio, em breve você encontrará meus projetos, demonstrando meu conhecimento em diversas tecnologias.
+🎯 Atualmente atuo como **Engenheiro de Dados**, com experiência prática em:
+- Arquitetura de Dados em ambientes de **Computação em Nuvem** (AWS, Azure)
+- Pipelines de ingestão, transformação e modelagem de dados
+- Data Lakes, Data Warehouses e Banco de Dados Relacionais/NoSQL
+- Automatização de processos de dados
+- Análise e visualização de dados para suporte à tomada de decisão
 
-📚 Graduado em Sistema da Informação e com experiência prática em desenvolvimento, estou constantemente aprendendo e aprimorando minhas habilidades. Acredito no poder da colaboração e estou sempre aberto a novas ideias e contribuições.
+👨‍💻 Também desenvolvo projetos paralelos em:
+- Integrações Python com Google Sheets e APIs
+- Criação de jogos independentes (projetos de lógica e estruturação)
+- Automação de tarefas e construção de dashboards
+- Desenvolvimento Web e APIs REST
 
-🔧 Além do meu trabalho em desenvolvimento, também sou entusiasta de:
-- 🤖 Entusiasta de robótica, trabalhando na criação de soluções automatizadas para facilitar a vida cotidiana.
-- 🤖 Explorando as fronteiras da inteligência artificial e aprendizado de máquina para resolver problemas desafiadores.
-- 🌐 Contribuidor ativo em projetos de código aberto, acreditando no poder da comunidade e da colaboração.
-- 🎮 Apaixonado por criar e desenvolver jogos, transformando ideias criativas em experiências interativas.
+📚 Sou graduado em **Sistemas de Informação** e sigo me especializando nas áreas de **Engenharia de Dados** e **Desenvolvimento de Software**, sempre buscando evoluir técnica e estrategicamente.
 
-🔧 Fora do código, você pode me encontrar:
-- 🎮 Em mundos virtuais, participar de jogos online e competir com amigos.
-- 🎵 Frequento shows e festivais, apreciando diversos gêneros musicais e colecionando momentos inesquecíveis.
-- 💪 Comprometido com um estilo de vida ativo, participando de atividades físicas e promovendo o bem-estar pessoal.
-- 🏖️ Apreciador do sol e mar, relaxar na praia, seja para praticar esportes ou simplesmente aproveitar o dia.
+🤖 Além do trabalho técnico, sou entusiasta de:
+- Robótica e automação
+- Inteligência Artificial e Aprendizado de Máquina
+- Projetos open-source e colaboração comunitária
+- Desenvolvimento de jogos como hobby criativo
 
-📫 Fique à vontade para explorar meu portfólio e entre em contato para colaborações, feedback ou apenas para uma conversa técnica!
+---
 
-### 🌐 Conecte-se comigo:
+## 🏖️ Um pouco além do código:
+
+- 🎮 Gamer nas horas vagas, apaixonado por experiências interativas.
+- 🎵 Amante de música, frequentador de shows e festivais.
+- 💪 Defensor de um estilo de vida ativo e saudável.
+- 🌞 Apreciador de praia, natureza e esportes ao ar livre.
+
+---
+
+## 🚀 Tecnologias que domino:
+
+- **Python** | **SQL** | **PySpark**
+- **AWS (S3, Glue, Lambda, Redshift)** | **Azure (Data Factory, Databricks)**
+- **PostgreSQL** | **Oracle** | **MongoDB**
+- **Git** | **Power BI** | **Google Sheets API**
+- **Big Data** | **Data Lakes** | **ETL Pipelines** | **Data Visualization**
+
+---
+
+## 🌐 Conecte-se comigo:
 
 | [LinkedIn](https://www.linkedin.com/in/nathan-thomaz-devs/) | [Portfólio](https://nathanthomaz.github.io/) | [Discord](https://discord.com/users/nathan#9367) | [Email](mailto:nathanthomaz@gmail.com) | [Instagram](https://www.instagram.com/nathann_thomaz/) |
 | --- | --- | --- | --- | --- |
+
+---
+
+📫 **Fique à vontade para explorar meus projetos, dar feedback ou trocar ideias sobre tecnologia, dados e inovação!**

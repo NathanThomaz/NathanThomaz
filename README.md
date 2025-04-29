@@ -1,26 +1,28 @@
 # 👋 Olá, eu sou Nathan Thomaz!
 
-🚀 Desenvolvedor e Engenheiro de Dados apaixonado por tecnologia, programação e criação de soluções inovadoras. Meu foco principal é construir sistemas eficientes, estruturados e escaláveis, aplicando boas práticas de engenharia de dados e desenvolvimento de software.
+🚀 Desenvolvedor e Engenheiro de Dados apaixonado por tecnologia, programação e criação de soluções inovadoras. Meu foco principal é construir sistemas eficientes, escaláveis e bem estruturados, aplicando boas práticas de engenharia de dados, orquestração de pipelines e desenvolvimento de software.
 
 🎯 Atualmente atuo como **Engenheiro de Dados**, com experiência prática em:
-- Arquitetura de Dados em ambientes de **Computação em Nuvem** (AWS, Azure)
-- Pipelines de ingestão, transformação e modelagem de dados
-- Data Lakes, Data Warehouses e Banco de Dados Relacionais/NoSQL
-- Automatização de processos de dados
-- Análise e visualização de dados para suporte à tomada de decisão
+- Arquitetura de Dados em ambientes de **Computação em Nuvem** (AWS, Azure, GCP)
+- Construção de pipelines de ingestão, transformação e modelagem de dados
+- Orquestração de workflows e pipelines de dados (Apache Airflow, Azure Data Factory)
+- Implementação de Data Lakes, Data Warehouses (Redshift, BigQuery) e Bancos de Dados Relacionais/NoSQL
+- Gestão e automação de **Máquinas Virtuais (VMs)** em ambientes cloud
+- Automatização de processos de dados e tarefas repetitivas
+- Análise de dados e visualização para suporte à tomada de decisão
 
 👨‍💻 Também desenvolvo projetos paralelos em:
 - Integrações Python com Google Sheets e APIs
-- Criação de jogos independentes (projetos de lógica e estruturação)
+- Criação de jogos independentes (foco em lógica e estruturação)
 - Automação de tarefas e construção de dashboards
 - Desenvolvimento Web e APIs REST
 
-📚 Sou graduado em **Sistemas de Informação** e sigo me especializando nas áreas de **Engenharia de Dados** e **Desenvolvimento de Software**, sempre buscando evoluir técnica e estrategicamente.
+📚 Sou graduado em **Sistemas de Informação** e sigo me especializando nas áreas de **Engenharia de Dados**, **Big Data** e **Desenvolvimento de Software**, sempre buscando evoluir técnica e estrategicamente.
 
 🤖 Além do trabalho técnico, sou entusiasta de:
 - Robótica e automação
 - Inteligência Artificial e Aprendizado de Máquina
-- Projetos open-source e colaboração comunitária
+- Contribuições em projetos open-source
 - Desenvolvimento de jogos como hobby criativo
 
 ---
@@ -36,11 +38,12 @@
 
 ## 🚀 Tecnologias que domino:
 
-- **Python** | **SQL** | **PySpark**
-- **AWS (S3, Glue, Lambda, Redshift)** | **Azure (Data Factory, Databricks)**
-- **PostgreSQL** | **Oracle** | **MongoDB**
-- **Git** | **Power BI** | **Google Sheets API**
-- **Big Data** | **Data Lakes** | **ETL Pipelines** | **Data Visualization**
+- **Linguagens:** Python | SQL | PySpark
+- **Nuvem:** AWS (S3, Glue, Lambda, Redshift) | Azure (Data Factory, Databricks) | GCP (BigQuery, Compute Engine)
+- **Orquestração:** Apache Airflow | Azure Data Factory
+- **Bancos de Dados:** PostgreSQL | Oracle | MongoDB
+- **Ferramentas:** Git | Power BI | Google Sheets API
+- **Áreas:** Big Data | Data Lakes | Data Warehouses | ETL Pipelines | Máquinas Virtuais | Data Visualization
 
 ---
 
